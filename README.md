@@ -8,4 +8,4 @@ cp: intj x estp x istp
 
 tag(LOFTER): 冷冻烈焰组
 
-author: 韔韚. with 红豆山楂糕.
+author: 韔韚. with 红豆山楂糕
